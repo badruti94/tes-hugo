@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial Pemrogaman WEb</title>
+    <link>https://badruti94.github.io/tes-hugo/</link>
+    <description>Recent content on Tutorial Pemrogaman WEb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sat, 28 Nov 2020 03:48:26 +0700</lastBuildDate><atom:link href="https://badruti94.github.io/tes-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth Post</title>
+      <link>https://badruti94.github.io/tes-hugo/posts/fourth-post/</link>
+      <pubDate>Sat, 28 Nov 2020 03:48:26 +0700</pubDate>
+      
+      <guid>https://badruti94.github.io/tes-hugo/posts/fourth-post/</guid>
+      <description>Ini post ke empat</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://badruti94.github.io/tes-hugo/posts/third-post/</link>
+      <pubDate>Sat, 28 Nov 2020 03:48:17 +0700</pubDate>
+      
+      <guid>https://badruti94.github.io/tes-hugo/posts/third-post/</guid>
+      <description>Ini post ke tiga</description>
+    </item>
+    
+    <item>
+      <title>Buku</title>
+      <link>https://badruti94.github.io/tes-hugo/rekomendasi/buku/</link>
+      <pubDate>Sat, 28 Nov 2020 00:44:40 +0700</pubDate>
+      
+      <guid>https://badruti94.github.io/tes-hugo/rekomendasi/buku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://badruti94.github.io/tes-hugo/posts/second-post/</link>
+      <pubDate>Sat, 28 Nov 2020 00:44:38 +0700</pubDate>
+      
+      <guid>https://badruti94.github.io/tes-hugo/posts/second-post/</guid>
+      <description>Ini post kedua</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://badruti94.github.io/tes-hugo/posts/first-post/</link>
+      <pubDate>Sat, 28 Nov 2020 00:44:34 +0700</pubDate>
+      
+      <guid>https://badruti94.github.io/tes-hugo/posts/first-post/</guid>
+      <description>Ini post pertama</description>
+    </item>
+    
+  </channel>
+</rss>
