@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on Tutorial Pemrogaman WEb</title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>https://tes-hugo.herokuapp.com/tags/css/</link>
     <description>Recent content in css on Tutorial Pemrogaman WEb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:44:34 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 00:44:34 +0700</lastBuildDate><atom:link href="https://tes-hugo.herokuapp.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://tes-hugo.herokuapp.com/posts/first-post/</link>
       <pubDate>Sat, 28 Nov 2020 00:44:34 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://tes-hugo.herokuapp.com/posts/first-post/</guid>
       <description>Ini post pertama</description>
     </item>
     

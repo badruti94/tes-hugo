@@ -3,67 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/posts/fourth-post/</loc>
+    <loc>https://tes-hugo.herokuapp.com/posts/fourth-post/</loc>
     <lastmod>2020-11-28T03:48:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://tes-hugo.herokuapp.com/posts/</loc>
     <lastmod>2020-11-28T03:48:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://tes-hugo.herokuapp.com/</loc>
     <lastmod>2020-11-28T03:48:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/js/</loc>
+    <loc>https://tes-hugo.herokuapp.com/tags/js/</loc>
     <lastmod>2020-11-28T03:48:17+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://tes-hugo.herokuapp.com/tags/</loc>
     <lastmod>2020-11-28T03:48:17+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/third-post/</loc>
+    <loc>https://tes-hugo.herokuapp.com/posts/third-post/</loc>
     <lastmod>2020-11-28T03:48:17+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/rekomendasi/buku/</loc>
+    <loc>https://tes-hugo.herokuapp.com/rekomendasi/buku/</loc>
     <lastmod>2020-11-28T00:44:40+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/rekomendasi/</loc>
+    <loc>https://tes-hugo.herokuapp.com/rekomendasi/</loc>
     <lastmod>2020-11-28T00:44:40+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://tes-hugo.herokuapp.com/tags/html/</loc>
     <lastmod>2020-11-28T00:44:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
+    <loc>https://tes-hugo.herokuapp.com/posts/second-post/</loc>
     <lastmod>2020-11-28T00:44:38+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://tes-hugo.herokuapp.com/tags/css/</loc>
     <lastmod>2020-11-28T00:44:34+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://tes-hugo.herokuapp.com/posts/first-post/</loc>
     <lastmod>2020-11-28T00:44:34+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tes-hugo.herokuapp.com/categories/</loc>
   </url>
   
 </urlset>

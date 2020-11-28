@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial Pemrogaman WEb</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tes-hugo.herokuapp.com/</link>
     <description>Recent content on Tutorial Pemrogaman WEb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Sat, 28 Nov 2020 03:48:26 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Nov 2020 03:48:26 +0700</lastBuildDate><atom:link href="https://tes-hugo.herokuapp.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fourth Post</title>
-      <link>http://localhost:1313/posts/fourth-post/</link>
+      <link>https://tes-hugo.herokuapp.com/posts/fourth-post/</link>
       <pubDate>Sat, 28 Nov 2020 03:48:26 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/fourth-post/</guid>
+      <guid>https://tes-hugo.herokuapp.com/posts/fourth-post/</guid>
       <description>Ini post ke empat</description>
     </item>
     
     <item>
       <title>Third Post</title>
-      <link>http://localhost:1313/posts/third-post/</link>
+      <link>https://tes-hugo.herokuapp.com/posts/third-post/</link>
       <pubDate>Sat, 28 Nov 2020 03:48:17 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/third-post/</guid>
+      <guid>https://tes-hugo.herokuapp.com/posts/third-post/</guid>
       <description>Ini post ke tiga</description>
     </item>
     
     <item>
       <title>Buku</title>
-      <link>http://localhost:1313/rekomendasi/buku/</link>
+      <link>https://tes-hugo.herokuapp.com/rekomendasi/buku/</link>
       <pubDate>Sat, 28 Nov 2020 00:44:40 +0700</pubDate>
       
-      <guid>http://localhost:1313/rekomendasi/buku/</guid>
+      <guid>https://tes-hugo.herokuapp.com/rekomendasi/buku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/second-post/</link>
+      <link>https://tes-hugo.herokuapp.com/posts/second-post/</link>
       <pubDate>Sat, 28 Nov 2020 00:44:38 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/second-post/</guid>
+      <guid>https://tes-hugo.herokuapp.com/posts/second-post/</guid>
       <description>Ini post kedua</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://tes-hugo.herokuapp.com/posts/first-post/</link>
       <pubDate>Sat, 28 Nov 2020 00:44:34 +0700</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://tes-hugo.herokuapp.com/posts/first-post/</guid>
       <description>Ini post pertama</description>
     </item>
     
